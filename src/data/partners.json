@@ -1,0 +1,27 @@
+[
+    {
+      "name": "coursera",
+      "path": "/partners/coursera.jpeg",
+      "id": 1
+    },
+    {
+      "name": "udemy",
+      "path": "/partners/udemy.png",
+      "id": 2
+    },
+    {
+      "name": "gfg",
+      "path": "/partners/gfg.png",
+      "id": 3
+    },
+    {
+      "name": "leetcode",
+      "path": "public/partners/leetcode.png",
+      "id": 4
+    },
+    {
+      "name": "hackerrank",
+      "path": "/partners/hackerrank.png",
+      "id": 5
+    }
+  ]
